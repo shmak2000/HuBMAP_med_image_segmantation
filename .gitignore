@@ -1,3 +1,5 @@
 # Project exclude paths
 /models/
 /models_best/
+SELF-Supervised_HuBMAP.ipynb
+PSEUDO labels.ipynb
